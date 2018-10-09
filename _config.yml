@@ -50,7 +50,7 @@ url:
 baseurl: ""
 
 collections:
-  conferences:
+  connecttech2018:
     output: true
     title: My first Jekyll collection
     description: Learning how to create a collection
