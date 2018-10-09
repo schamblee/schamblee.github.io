@@ -4,3 +4,4 @@ title: My collection of notes
 permalink: :collection
 ---
 
+All my notes
